@@ -8,7 +8,7 @@
   * Bluemix & Bluemix DevOps Services (v1) overview & Q and A  introduction: Herman
 * 10:00 a.m. - 11:15 a.m.
   *  Build Personality Insights app: Helen
-  *  https://medium.com/@helenflam/personality-insights-node-red-app-a20b84d95b24#.158xcvs58
+  *  Lab: https://medium.com/@helenflam/personality-insights-node-red-app-a20b84d95b24#.158xcvs58
 * 11:15 a.m. - 12:00 p.m.
   * Alchemy app - Helen
 * 12:00 p.m. - 1:00 p.m.
@@ -17,15 +17,15 @@
   * Alchemy App continue
 * 1:30 p.m. - 2:45 p.m.
   * Speech-to-text, text-to-speech: Helen
-  * text-to-speech:	http://watsonttslab.mybluemix.net
-  * speech-to-text: https://github.com/Bluemix-Watson-Labs/speech-to-text
+  * (i)Text-to-speech lab:	http://watsonttslab.mybluemix.net
+  * (ii) Speech-to-text lab: https://github.com/Bluemix-Watson-Labs/speech-to-text
 * 2:45 p.m. - 2:55 p.m.
   * Break
 * 2:55 p.m. - 3:25 p.m.
   * Toolchains presentation: Herman
 * 3:25 - 4:30 p.m.
   * NLC App: Helen & Herman
-  * https://github.com/Bluemix-Watson-Labs/Natural-Language-Classifier-Lab
+  * Lab: https://github.com/Bluemix-Watson-Labs/Natural-Language-Classifier-Lab
 
 ## Day Two
 * 9:00 - 9:15 a.m.

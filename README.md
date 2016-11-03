@@ -11,6 +11,7 @@
   *  Lab: https://medium.com/@helenflam/personality-insights-node-red-app-a20b84d95b24#.158xcvs58
 * 11:15 a.m. - 12:00 p.m.
   * Alchemy app - Helen
+  * Alchemy Language Lab: https://medium.com/@helenflam/alchemy-language-9e5c1c01340d#.i8hpacopo
 * 12:00 p.m. - 1:00 p.m.
   * Lunch!
 * 1:00 p.m. - 1:20 p.m.

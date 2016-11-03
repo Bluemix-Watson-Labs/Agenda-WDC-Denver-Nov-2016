@@ -17,6 +17,8 @@
   * Alchemy App continue
 * 1:30 p.m. - 2:45 p.m.
   * Speech-to-text, text-to-speech: Helen
+  * text-to-speech:	http://watsonttslab.mybluemix.net
+  * speech-to-text: https://github.com/Bluemix-Watson-Labs/speech-to-text
 * 2:45 p.m. - 2:55 p.m.
   * Break
 * 2:55 p.m. - 3:25 p.m.

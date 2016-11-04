@@ -41,7 +41,7 @@
   * Conversation App - Helen  
   * Overview: https://github.com/Bluemix-Watson-Labs/conversation-api-overview
   * Lab: https://medium.com/ibm-watson-developer-cloud/create-your-slack-bot-with-conversation-api-node-red-a5bf82aad24d#.8eybo5632
-  * Lab 2: https://www.ibm.com/blogs/watson/2016/07/build-chat-bot/
+  * * extra if you're finished Lab 1: https://www.ibm.com/blogs/watson/2016/07/build-chat-bot/
 * 12:00 p.m. - 12:40 p.m.
   * Lunch
 * 12:40 p.m. - 1:50 p.m.

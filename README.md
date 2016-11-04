@@ -45,5 +45,6 @@
   * Lunch
 * 1:00 p.m. - 2:30 p.m.
   * Visual Recognition App - Helen
+  * https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69#.x4xfy13j9
 * 2:30 - 4:30 p.m.
   * Hackathon

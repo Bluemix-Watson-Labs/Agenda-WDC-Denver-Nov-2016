@@ -41,10 +41,10 @@
   * Conversation App - Helen  
   * Overview: https://github.com/Bluemix-Watson-Labs/conversation-api-overview
   * Lab: https://medium.com/ibm-watson-developer-cloud/create-your-slack-bot-with-conversation-api-node-red-a5bf82aad24d#.8eybo5632
-* 12:00 p.m. - 1:00 p.m.
+* 12:00 p.m. - 12:40 p.m.
   * Lunch
-* 1:00 p.m. - 2:30 p.m.
+* 12:40 p.m. - 1:50 p.m.
   * Visual Recognition App - Helen
   * https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69#.x4xfy13j9
-* 2:30 - 4:30 p.m.
-  * Hackathon
+* 1:50 p.m.  - 4:30 p.m.
+* Hackathon & presentation

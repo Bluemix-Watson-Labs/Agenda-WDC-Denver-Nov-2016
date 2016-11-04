@@ -34,6 +34,7 @@
   * Refreshments
 * 9:15 a.m. - 10:30 a.m.
   * Retrieve and Rank App - Helen
+  * https://medium.com/@helenflam/retrieve-rank-492f6178dfcd#.hrqgi5w39
 * 10:30 a.m. - 10:40 a.m.
   * Break
 * 10:40 a.m. - 12:00 p.m.

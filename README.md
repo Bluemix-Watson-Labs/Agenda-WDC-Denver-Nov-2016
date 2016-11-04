@@ -38,6 +38,8 @@
   * Break
 * 10:40 a.m. - 12:00 p.m.
   * Conversation App - Helen  
+  * Overview: https://github.com/Bluemix-Watson-Labs/conversation-api-overview
+  * Lab: https://medium.com/ibm-watson-developer-cloud/create-your-slack-bot-with-conversation-api-node-red-a5bf82aad24d#.8eybo5632
 * 12:00 p.m. - 1:00 p.m.
   * Lunch
 * 1:00 p.m. - 2:30 p.m.

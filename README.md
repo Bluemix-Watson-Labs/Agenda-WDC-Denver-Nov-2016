@@ -32,12 +32,12 @@
 ## Day Two
 * 9:00 - 9:15 a.m.
   * Refreshments
-* 9:15 a.m. - 10:30 a.m.
+* 9:15 a.m. - 10:45 a.m.
   * Retrieve and Rank App - Helen
   * https://medium.com/@helenflam/retrieve-rank-492f6178dfcd#.hrqgi5w39
-* 10:30 a.m. - 10:40 a.m.
+* 10:45 a.m. - 10:55 a.m.
   * Break
-* 10:40 a.m. - 12:00 p.m.
+* 10:55 a.m. - 12:00 p.m.
   * Conversation App - Helen  
   * Overview: https://github.com/Bluemix-Watson-Labs/conversation-api-overview
   * Lab: https://medium.com/ibm-watson-developer-cloud/create-your-slack-bot-with-conversation-api-node-red-a5bf82aad24d#.8eybo5632
